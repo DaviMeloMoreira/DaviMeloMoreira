@@ -1,7 +1,7 @@
 ## 👋 Olá! Eu sou o Davi
-  🎓 Idade: 19 anos
-  💻 Área de Interesse: Tecnologia da Informação
-  🚀 Em busca de: Oportunidade de estágio para aprender e contribuir com meu conhecimento!
+## 🎓 Idade: 19 anos
+## 💻 Área de Interesse: Tecnologia da Informação
+## 🚀 Em busca de: Oportunidade de estágio para aprender e contribuir com meu conhecimento!
 
 ## Um pouco sobre mim
 ### Sou apaixonado por tecnologia e estou dando os primeiros passos na área de TI, buscando sempre me aperfeiçoar e absorver o máximo de conhecimento. Estou empolgado para entrar no mercado e fazer parte de projetos que possam transformar o dia a dia das pessoas através da tecnologia.
