@@ -5,7 +5,7 @@
 **🚀 Em busca de**: Oportunidade de estágio para aprender e contribuir com meu conhecimento!
 
 ## Um pouco sobre mim
-Sou apaixonado por tecnologia e estou dando os primeiros passos na área de TI, buscando sempre me aperfeiçoar e absorver o máximo de conhecimento. Estou empolgado para entrar no mercado e fazer parte de projetos que possam transformar o dia a dia das pessoas através da tecnologia.
+Sou Davi, um estudante de TI de 19 anos com uma enorme curiosidade por tudo que envolve tecnologia e inovação. Estou apenas começando minha jornada na área, mas já sei que quero fazer parte de algo maior, construindo soluções e contribuindo com ideias para projetos que possam fazer a diferença. Minha meta é crescer constantemente, evoluindo com cada novo desafio e oportunidade. Sei que ainda tenho muito a aprender, mas estou motivado a dar o meu melhor em cada passo, colaborando com quem compartilha dessa paixão pela tecnologia e aprendizado.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
