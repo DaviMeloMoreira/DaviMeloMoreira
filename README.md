@@ -21,6 +21,6 @@ Sou apaixonado por tecnologia e estou dando os primeiros passos na área de TI, 
 Se você tem um projeto interessante ou uma oportunidade de estágio para me apresentar, ficarei feliz em conversar! Você pode me encontrar em:
 
 <div> 
-  <a href="mailto:davimmoreira@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:davimmoreira05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/davimelomoreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
